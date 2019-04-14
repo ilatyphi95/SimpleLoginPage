@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleLoginPage</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="welcome">Welcome</string>
+    <string name="reset">Reset</string>
+</resources>
